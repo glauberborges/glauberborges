@@ -7,8 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Desenvolvedor+Back-end;Pai;Esposo;Cristão)](https://git.io/typing-svg)
 
 
-[![wakatime](https://wakatime.com/badge/user/1bac1804-6278-4303-b9ed-4486e9f4ded6.svg)](https://wakatime.com/@1bac1804-6278-4303-b9ed-4486e9f4ded6)
-
 ## Sobre mim:
 
 Desenvolvedor back-end com algumas aventuras no mundo de front-end. Amante de Laravel e curioso nas horas vagas. Com uma pitada de empreendedorismo.
@@ -31,7 +29,6 @@ Desenvolvedor back-end com algumas aventuras no mundo de front-end. Amante de La
     <img align="center" alt="Logo-CodeIgniter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
     <img align="center" alt="Logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Logo-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-    <img align="center" alt="Logo-Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
     <img align="center" alt="Logo-Electronjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
     <img align="center" alt="Logo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
     <img align="center" alt="Logo-Tailwindcss" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
@@ -40,7 +37,6 @@ Desenvolvedor back-end com algumas aventuras no mundo de front-end. Amante de La
 
 <div align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauberborges&layout=compact&theme=dark&langs_count=10&custom_title=O que o Github fala que uso."/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=glauberborges&layout=compact&theme=dark&custom_title=Onde gasto meu tempo (WakaTime)."/>
 </div>
 
 
